@@ -1,5 +1,7 @@
 # Laravel Questions & Answers Forum
-php laravel Forum site - Questions and Answers
+php laravel Forum site - Questions and Answers - 
+Laravel version: 10
+& PHP version: 8.1
 
 # Advantages
 - Forum that you can use for any other purpose
